@@ -6,6 +6,8 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # Load the dataset
+#123 eeeee
+
 file_path = "D:\DataAnaProject\dataset.csv"  # Ensure the dataset is in the same directory
 df = pd.read_csv(file_path)
 
